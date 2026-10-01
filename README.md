@@ -1,0 +1,2 @@
+# Partial-Convolutional-Dilated-Autoencoder-PConvDAe-
+This repository contains code implementation for the spatial reconstruction of Precipitable Water Vapor (PWV) using a Partial Convolutional Dilated Autoencoder (PConvDAe). The model leverages short-term temporal evolution and spatial structure of Himawari-8 Advanced Himawari Imager (AHI) water-vapor bands to reconstruct full-grid GNSS networks.
